@@ -20,4 +20,4 @@ Para gerar a simulação é necessário criar uma planilha contendo as seguintes
 
 Importante: Se o cliente que for ser simulado for do tipo horário verde, os dados de DEMANDA PONTA e FORA PONTA devem ser iguais na planilha, tanto a Medida quanto a Contratada. A planilha gerada deve ficar na mesma pasta que este script.
 
-Atentar no script quanto a adequação das aliquotas de imposto e de tarifas, conforme a distribuidora de energia que for ser considerada.
+Atentar no script quanto a adequação das aliquotas de imposto e de tarifas, conforme a distribuidora de energia a ser considerada.
